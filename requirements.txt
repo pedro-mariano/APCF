@@ -1,0 +1,6 @@
+numpy<2
+surprise
+scikit-learn
+cython
+pandas
+torch
