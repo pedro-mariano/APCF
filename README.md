@@ -4,13 +4,13 @@ Instructions
 
 To install the required librarires, run:
 
-$ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
 Then, you need to build the similarity module with cyhton:
 
-$ cython APCF_sims.pyx
+    $ cython APCF_sims.pyx
 
-$ python setup.py build_ext --inplace
+    $ python setup.py build_ext --inplace
 
 Datasets are available at: https://doi.org/10.25824/redu/40OKYE
 
