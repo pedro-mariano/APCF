@@ -67,4 +67,4 @@ algo = RecAPCF(k_neigh, n_pat, sim_name, optimize, n_ass)
 algo.run_KFold(n_splits, files_dir, dataset, N_metric, t_rat=t_rat, t_bin = t_bin, sd=seed, save_pred=save, scale=rating_scale)
 stop = timeit.default_timer()
 t_total = stop - start
-print(f'APCF completed, total runtime: {t_total}s, CF only: {t_total - t_ae}')
+print(f'APCF completed, total runtime: {t_total}s, CF only: {t_total - t_ae}s')
