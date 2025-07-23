@@ -1,6 +1,12 @@
+#! /usr/bin/env python3
+# @author	   : Pedro Mariano Sousa Bezerra <pedromsb@unicamp.br>
+# @file	   	   : main.py
+# @created	   : 23-Jul-2025
+# @company 	   : School of Electrical and Computer Engineering - UNICAMP - Campinas - Brazil
+
 from algo_surprise import RecAPCF
 import timeit
-from numpy import mod
+#from numpy import mod
 from data_preprocessing import create_dat, check_patterns
 import subprocess
 
