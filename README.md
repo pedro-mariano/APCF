@@ -18,4 +18,4 @@ Data files must be CSV files named in the format prefix_trainX.csv and prefix_te
 
 If you use this method, please cite the following reference:
 
-Bezerra, P. M. S. (2025) Autoencoder-based pattern mining applied to recommender systems. [Doctoral thesis, University of Campinas].
+Bezerra, P. M. S. (2025) Autoencoder-based pattern mining applied to recommender systems. [Doctoral thesis, University of Campinas]. Available at: https://hdl.handle.net/20.500.12733/34640
